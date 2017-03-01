@@ -1,5 +1,5 @@
 
-package pkg06lll3.u.i.u3;
+package DormMain;
 
 
 public class User {
