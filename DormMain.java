@@ -1,8 +1,8 @@
 
-package pkg06lll3.u.i.u3;
+package DormMain;
 
 
-public class UIU3 {
+public class DormMain {
 
     
     public static void main(String[] args) {
